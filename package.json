@@ -1,0 +1,24 @@
+{
+  "name": "shuffle",
+  "version": "1.0.0",
+  "description": "This is a simple shuffle demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobyreynold/shuffle.git"
+  },
+  "author": "Lynn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tobyreynold/shuffle/issues"
+  },
+  "homepage": "https://github.com/tobyreynold/shuffle#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "jade": "^1.11.0",
+    "swig": "^1.4.2"
+  }
+}
